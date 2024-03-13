@@ -1,0 +1,7 @@
+  "production-pg": {
+    "username": "postgres",
+    "password": "users",
+    "database": "db-todos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
